@@ -1,2 +1,2 @@
 # ivehement
-Live Tech Product from Vehement LLP
+Live Tech Products by Vehement LLP
